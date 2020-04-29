@@ -1,0 +1,3 @@
+[MESSAGES CONTROL]
+generated-members=tetration_network_policy_pb2.*,tet.*
+disable=missing-docstring,line-too-long

@@ -1,0 +1,8 @@
+.DS_Store
+__pytest_cache__/
+__pycache__
+.vscode
+credentials
+logs
+.venv
+*.json
